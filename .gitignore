@@ -1,0 +1,32 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+/target/
+
+# Build output
+/build/
+
+# IDE files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Others
+bin/
+
+# Uncomment and add more as needed
+# *.tmp
+# *.bak
